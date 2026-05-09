@@ -2,3 +2,4 @@ data/
 *.xlsx
 data/
 data/
+.DS_Store
